@@ -11,8 +11,8 @@ node_modules/
 /frontend/build
 
 # Python
-venv/
-__pycache__/
+/backend/venv/
+/backend/__pycache__/
 *.pyc
 *.pyo
 *.pyd
